@@ -30,7 +30,5 @@ The programs are written in the Python and R programming languages.
    - Decision Tree
    - Artificial Neural Networks (ANN)- Python code only
 
--
-
 
 
