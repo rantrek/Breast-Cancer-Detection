@@ -1,37 +1,34 @@
 # Breast-Cancer-Detection
 Breast Cancer Detection using machine learning and deep learning algorithms
 
-About the Dataset
+## About the Dataset
 
 The dataset can be downloaded from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
-Objective
+## Objective
 
 The purpose of this project is to predict whether the tumor is benign or malignant. 
 
-Program
+## Program
 
 The programs are written in the Python and R programming languages.
 
-Techniques
+## Techniques
 
--Data Cleaning
+   - Data Cleaning
+   - Data Visualization
+   - Machine Learning
+   - Deep Learning   
 
--Data Visualization
+## Algorthims 
 
--Machine Learning
-
-Algorthims 
-
--Classifiers
    - Logistic Regression
    - Support Vector Machine (SVM)
    - K-Nearest Neighbors (KNN)
    - Random Forest
    - Naive Bayes
    - Decision Tree
- 
- -Artificial Neural Networks (ANN)
+   - Artificial Neural Networks (ANN)- Python code only
 
 -
 
