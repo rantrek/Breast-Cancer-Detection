@@ -187,7 +187,7 @@ fitPredictModel(KNN_classifier)
 # In[19]:
 
 
-#Using ANN (Artificial Neural Network) to predict Heart Disease or not
+#Using ANN (Artificial Neural Network) 
 
 # Importing the Keras libraries and packages
 import keras
