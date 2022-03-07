@@ -26,8 +26,6 @@ The programs are written in the Python and R programming languages.
    - Support Vector Machine (SVM)
    - K-Nearest Neighbors (KNN)
    - Random Forest
-   - Naive Bayes
-   - Decision Tree
    - Artificial Neural Networks (ANN)- Python code only
 
 
