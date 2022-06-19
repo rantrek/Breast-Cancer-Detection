@@ -20,7 +20,7 @@ The programs are written in the Python and R programming languages.
    - Machine Learning
    - Deep Learning   
 
-## Algorthims 
+## Algorithms 
 
    - Logistic Regression
    - Support Vector Machine (SVM)
